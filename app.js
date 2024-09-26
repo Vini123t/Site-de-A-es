@@ -236,6 +236,3 @@ window.onclick = function(event) {
 window.onload = function() {
     connect();
 };
-
-
-
